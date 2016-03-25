@@ -1,0 +1,12 @@
+.button-search
+{
+    -fx-background-color: #7c8d87;
+	-fx-border-radius: 20;
+	-fx-text-fill: #ffffff;	
+}
+.button-search:hover
+{
+	-fx-background-color: rgb(49, 188, 134);
+	-fx-border-radius: 20;
+	-fx-text-fill: #ffffff;	
+}
